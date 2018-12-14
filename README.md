@@ -1,3 +1,6 @@
+# My Info
+this project creates all the fields using pojo FieldInfo and dynamically generates filed using that info
+
 # DynamicForm
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
